@@ -1,5 +1,5 @@
 # summon
-a python script for summon 
+a python script for summon you will get 120+ Summoning bot Accounts
 
 ## Getting Started
 
